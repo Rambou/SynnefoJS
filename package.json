@@ -1,0 +1,19 @@
+{
+  "name": "synnefo",
+  "version": "0.1.0",
+  "description": "This is a nodejs client for Okeanos REST API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Okeanos",
+    "API"
+  ],
+  "author": "Nikolaos Bousios, Rambou (www.rambou.gr)",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
