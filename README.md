@@ -8,17 +8,11 @@ const fs = require('fs');
 
 const userList = [{
     "name": "user1",
-    "username": "username1",
-    "password": "password",
-    "organization": "aegean",
     "token": "mytoken",
     "api_username": "cloudstack_api_username",
     "api_password": "cloudstack_api_password"
 }, {
     "name": "user2",
-    "username": "username2",
-    "password": "password",
-    "organization": "aegean",
     "token": "mytoken",
     "api_username": "cloudstack_api_username",
     "api_password": "cloudstack_api_password"
